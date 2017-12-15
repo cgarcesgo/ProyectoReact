@@ -55,13 +55,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergiodxa/react-course-project.git"
+    "url": "git+https://github.com/cgarcesgo/react-course-project.git"
   },
   "keywords": [],
-  "author": "Sergio Daniel Xalambrí <sergio@xalambri.com.ar> (http://sergio.xalambri.com.ar/)",
+  "author": "Carlos Andrés Garcés González <c@carlosgarcesg.com> (http://carlosgarcesg.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sergiodxa/react-course-project/issues"
+    "url": "https://github.com/cgarcesgo/react-course-project/issues"
   },
-  "homepage": "https://github.com/sergiodxa/react-course-project#readme"
+  "homepage": "https://github.com/cgarcesgo/react-course-project#readme"
 }

@@ -17,7 +17,7 @@ function Header() {
           <FormattedMessage id="header.nav.home" />
         </Link>
         <a
-          href="https://github.com/sergiodxa/react-course-project"
+          href="https://github.com/cgarcesgo/react-course-project"
           className={styles.link}
           target="_blank"
           rel="noopener noreferrer"
